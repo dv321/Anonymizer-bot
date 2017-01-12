@@ -2,9 +2,9 @@
 
 Anonymizer Bot is a slack app that receives direct messages and posts them anonymously to a specified channel - it's great for companies loooking to collect feedback from employees. The app is currently configured to run on Heroku, but ngrok works well for local development. See https://github.com/slackapi/Slack-Python-Onboarding-Tutorial for more info.
 
-### Installation steps:
+### Installation steps
 
-Setting up Slack apps is a mess, do so at your own peril!
+Setting up Slack apps is a mess, abandon all hope ye who enter here:
 
 * Create a new slack app and set the client id and client secret as SLACK_CLIENT_ID and SLACK_CLIENT_SECRET env vars, respectively
 
